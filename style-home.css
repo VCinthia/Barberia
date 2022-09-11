@@ -1,0 +1,55 @@
+body{
+    font-family:  Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background-color: #cccccc;
+    padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{    
+    color: rgb(50, 50, 95);
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background-color: #ffffff;
+    padding: 30px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;/*para qque ocupe solo en ancho del texto de la lista y asi poder poner la img al lado*/
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.imagenDiferenciales{
+    width: 50%;
+    
+}
+
